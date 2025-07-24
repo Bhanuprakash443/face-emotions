@@ -1,0 +1,72 @@
+{
+  "hindi": {
+    "happy": [
+      {"title": "Kala Chashma", "artist": "Badshah", "youtube": "https://www.youtube.com/watch?v=k4yXQkG2s1E"},
+      {"title": "London Thumakda", "artist": "Labh Janjua", "youtube": "https://www.youtube.com/watch?v=XRpZ5w8li-Q"}
+    ],
+    "sad": [
+      {"title": "Tum Hi Ho", "artist": "Arijit Singh", "youtube": "https://www.youtube.com/watch?v=Umqb9KENgmk"},
+      {"title": "Channa Mereya", "artist": "Arijit Singh", "youtube": "https://www.youtube.com/watch?v=284Ov7ysmfA"}
+    ],
+    "angry": [
+      {"title": "Apna Time Aayega", "artist": "Ranveer Singh", "youtube": "https://www.youtube.com/watch?v=Jzcv3S93q2s"}
+    ],
+    "neutral": [
+      {"title": "Lo-Fi Hindi Songs Mix", "artist": "Various", "youtube": "https://www.youtube.com/watch?v=W8GxutpWHnY"}
+    ],
+    "surprise": [
+      {"title": "Kar Gayi Chull", "artist": "Badshah", "youtube": "https://www.youtube.com/watch?v=LSNWXK2jGd4"}
+    ]
+  },
+  "telugu": {
+    "happy": [
+      {"title": "Butta Bomma", "artist": "Armaan Malik", "youtube": "https://www.youtube.com/watch?v=3odIdmuFfDU"}
+    ],
+    "sad": [
+      {"title": "Samajavaragamana", "artist": "Sid Sriram", "youtube": "https://www.youtube.com/watch?v=Qv5fqunQ_4I"}
+    ],
+    "angry": [
+      {"title": "Ramuloo Ramulaa", "artist": "Anurag Kulkarni", "youtube": "https://www.youtube.com/watch?v=8q3M4R8bA1A"}
+    ],
+    "neutral": [
+      {"title": "Telugu Lo-Fi Mix", "artist": "Various", "youtube": "https://www.youtube.com/watch?v=6Q1Q9bQ1y1A"}
+    ],
+    "surprise": [
+      {"title": "Mind Block", "artist": "Blaaze, Ranina Reddy", "youtube": "https://www.youtube.com/watch?v=6oKQpXbK4Vg"}
+    ]
+  },
+  "tamil": {
+    "happy": [
+      {"title": "Vaathi Coming", "artist": "Anirudh Ravichander", "youtube": "https://www.youtube.com/watch?v=QWzrq8g5Hf8"}
+    ],
+    "sad": [
+      {"title": "Enna Sona", "artist": "Arijit Singh", "youtube": "https://www.youtube.com/watch?v=rcE7aSsL5bM"}
+    ],
+    "angry": [
+      {"title": "Aaluma Doluma", "artist": "Anirudh Ravichander", "youtube": "https://www.youtube.com/watch?v=1TxpT2b8W2w"}
+    ],
+    "neutral": [
+      {"title": "Tamil Lo-Fi Mix", "artist": "Various", "youtube": "https://www.youtube.com/watch?v=6Q1Q9bQ1y1A"}
+    ],
+    "surprise": [
+      {"title": "Rowdy Baby", "artist": "Dhanush, Dhee", "youtube": "https://www.youtube.com/watch?v=K0ibBPhiaG0"}
+    ]
+  },
+  "english": {
+    "happy": [
+      {"title": "Happy", "artist": "Pharrell Williams", "youtube": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"}
+    ],
+    "sad": [
+      {"title": "Someone Like You", "artist": "Adele", "youtube": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"}
+    ],
+    "angry": [
+      {"title": "Stronger", "artist": "Kanye West", "youtube": "https://www.youtube.com/watch?v=PsO6ZnUZI0g"}
+    ],
+    "neutral": [
+      {"title": "Lo-Fi Beats", "artist": "Various", "youtube": "https://www.youtube.com/watch?v=jfKfPfyJRdk"}
+    ],
+    "surprise": [
+      {"title": "Uptown Funk", "artist": "Mark Ronson ft. Bruno Mars", "youtube": "https://www.youtube.com/watch?v=OPf0YbXqDm0"}
+    ]
+  }
+} 
